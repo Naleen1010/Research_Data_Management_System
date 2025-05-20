@@ -1,0 +1,5 @@
+Experiment1,2024-08-01,Dr. Smith,12.5, 14.3, 15.2
+Experiment2,2024-08-02,Dr. Brown,22.1, 23.4
+asdsa,2003-02-13,oipuij,20.0, 30.0, 40.0, 50.0, 60.0, 70.0
+Experiment1,2024-08-01,Dr. Smith,12.5, 14.3, 15.2
+Experiment2,2024-08-02,Dr. Brown,22.1, 23.4
